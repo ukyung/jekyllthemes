@@ -1,7 +1,6 @@
 name: ukeeong
 url: "https://ukyung.github.io/ukeeong/"
 description: Insert tagline here
-baseurl:""
 
 permalink: /themes/:title/
 
